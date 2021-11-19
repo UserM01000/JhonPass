@@ -13,7 +13,7 @@ el su uso es súper fácil
 * `python3 JhonPass.py`
 * `Listo`
 ~~~
-Tutorial de uso ---> 
+Tutorial de uso ---> https://youtu.be/tACCZfFzV9c
 ~~~
 ----
 Si tienes dudas, problemas o criticas házmelo saber 
