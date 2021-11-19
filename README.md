@@ -12,6 +12,15 @@ el su uso es súper fácil
 * `chmod +x JhonPass.py`
 * `python3 JhonPass.py`
 * `Listo`
+~~~
+Tutorial de uso ---> 
+~~~
+----
+Si tienes dudas, problemas o criticas házmelo saber 
+Con gusto te responderé :D </br>
+</br>
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
+----
 
 # JHONPASS
 ![Tested](https://img.shields.io/badge/Tested-Termux%20%7C%20Parrot%20%7C%20Kali%20Linux-blue)
